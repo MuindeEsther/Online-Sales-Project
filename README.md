@@ -16,5 +16,8 @@ To achieve this will tackle the following prompts:
 5. Will look at the georaphical representation of demand. This will give an overview of the regions that have the greatest demands for our products
 
 ### Findings, Reports and Recommendations
+
 The following where the findings from Exploratory data analysis
-    
+1.The Time series plot indicated a seasonal trend with an increasing trajectory to the number of sales over the previous period
+2.Netherlands was the leading country with a revenue of 284.7k Dollars excluding United Kingdom. Following Netherlands was EIRE, Germany , France and
+Australia
