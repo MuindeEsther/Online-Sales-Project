@@ -23,3 +23,5 @@ The following where the findings from Exploratory data analysis
 
 2.Netherlands was the leading country with a revenue of 284.7k Dollars excluding United Kingdom. Following Netherlands was EIRE, Germany , France and
 Australia
+
+![Online Sales Dashboard](https://github.com/MuindeEsther/Online-Sales-Project/raw/main/Online%20sales%20dashboard.png)
